@@ -1,7 +1,7 @@
 camw = 640
 camh = 360
 
-if instance_exists(obj_player) flw = obj_player
+if instance_exists(obj_player) flw = noone //obj_player
 else flw = noone
 
 if flw != noone{
