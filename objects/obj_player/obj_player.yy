@@ -14,7 +14,10 @@
     "name":"obj",
     "path":"folders/obj.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_entidade",
+    "path":"objects/obj_entidade/obj_entidade.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

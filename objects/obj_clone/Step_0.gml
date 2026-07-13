@@ -1,5 +1,5 @@
-if y < obj_player.y depth = 301
-else depth = 299
+if y < obj_player.y depth = obj_player.depth + 1
+else depth = obj_player.depth - 1
 
 if place_meeting(x, y, col_death){
 

@@ -26,3 +26,5 @@ if keyboard_check_pressed(ord("F"))
     }
 }
 ini_close()
+
+if keyboard_check_pressed(ord("R")) room_restart()

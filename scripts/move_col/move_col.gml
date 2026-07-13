@@ -14,7 +14,7 @@ vsp = (obj_player.key_down - obj_player.key_up) * spd
 
 #region //collision - colisión - colisão
 
-var _col = [obj_col, obj_buraco]
+var _col = [obj_col, obj_buraco, obj_grade_door]
 
 // horizontal collision
 // colisión horizontal
