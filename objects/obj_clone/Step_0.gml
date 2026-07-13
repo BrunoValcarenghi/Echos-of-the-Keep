@@ -1,7 +1,7 @@
 if y < obj_player.y depth = 301
 else depth = 299
 
-if place_meeting(x, y, obj_espinhos) or place_meeting(x, y, obj_buraco){
+if place_meeting(x, y, col_death){
 
 	spd = 0
 	sprite_index = spr_clone_death

@@ -1,4 +1,4 @@
-if instance_exists(obj_arrow){
+if instance_exists(obj_arrow) and instance_exists(obj_clone){
 
 	if x = obj_clone.x {
 		image_angle = obj_arrow.image_angle

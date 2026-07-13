@@ -11,3 +11,5 @@ shoot_time = 20;
 shadow(true);
 
 spd = 1
+
+col_death = [obj_shield, obj_espinhos, obj_enemy]

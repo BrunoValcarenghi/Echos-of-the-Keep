@@ -2,7 +2,7 @@ get_input()
 move_col()
 pause()
 
-if place_meeting(x, y, obj_espinhos){
+if place_meeting(x, y, col_death){
 	
 	spd = 0
 	sprite_index = spr_player_death
