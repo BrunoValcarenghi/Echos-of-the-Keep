@@ -81,6 +81,7 @@
     {"id":{"name":"pause","path":"scripts/pause/pause.yy",},},
     {"id":{"name":"shadow","path":"scripts/shadow/shadow.yy",},},
     {"id":{"name":"shoot","path":"scripts/shoot/shoot.yy",},},
+    {"id":{"name":"spr_arrow_destroy","path":"sprites/spr_arrow_destroy/spr_arrow_destroy.yy",},},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},},
