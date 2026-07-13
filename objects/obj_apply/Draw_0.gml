@@ -11,9 +11,9 @@ draw_set_valign(fa_middle)
 
 switch global.language{
 
-	case 1: text = "aplicar"; break;
-	case 2: text = "aplicar"; break;
-	default: text = "apply"; break;
+	case 1: text = "Aplicar"; break;
+	case 2: text = "Aplicar"; break;
+	default: text = "Apply"; break;
 
 }
 

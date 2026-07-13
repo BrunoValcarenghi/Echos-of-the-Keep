@@ -11,9 +11,9 @@ draw_set_valign(fa_middle)
 
 switch global.language{
 
-	case 1: text = "vueltar"; break;
-	case 2: text = "voltar"; break;
-	default: text = "back"; break;
+	case 1: text = "Vueltar"; break;
+	case 2: text = "Voltar"; break;
+	default: text = "Back"; break;
 
 }
 

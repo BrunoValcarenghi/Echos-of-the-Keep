@@ -13,9 +13,9 @@ draw_set_valign(fa_middle)
 
 switch global.language{
 
-	case 1: text = "menú de inicio"; break;
-	case 2: text = "menu inicial"; break;
-	default: text = "main menu"; break;
+	case 1: text = "Menú de Inicio"; break;
+	case 2: text = "Menu inicial"; break;
+	default: text = "Main Menu"; break;
 
 }
 

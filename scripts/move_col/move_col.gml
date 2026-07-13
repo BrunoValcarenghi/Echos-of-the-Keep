@@ -14,12 +14,14 @@ vsp = (obj_player.key_down - obj_player.key_up) * spd
 
 #region //collision - colisión - colisão
 
+var _col = [obj_col, obj_buraco]
+
 // horizontal collision
 // colisión horizontal
 // colisão horizontal	
-if (place_meeting(x+hsp, y, obj_col)){
+if (place_meeting(x+hsp, y, _col)){
 	
-	while (!place_meeting(x+sign(hsp), y, obj_col)){
+	while (!place_meeting(x+sign(hsp), y, _col)){
 	x = x + sign(hsp)
 	}
 	
@@ -32,9 +34,9 @@ x += hsp
 // vertical collision
 // colisión vertical
 // colisão vertical
-if (place_meeting(x, y+vsp, obj_col)){
+if (place_meeting(x, y+vsp, _col)){
 	
-	while (!place_meeting(x, y+sign(vsp), obj_col)){
+	while (!place_meeting(x, y+sign(vsp), _col)){
 	y = y + sign(vsp)
 	}
 	

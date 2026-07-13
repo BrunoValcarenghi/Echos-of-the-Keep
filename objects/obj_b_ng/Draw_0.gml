@@ -11,9 +11,9 @@ draw_set_valign(fa_middle)
 
 switch global.language{
 
-	case 1: text = "nuevo juego"; break;
-	case 2: text = "novo jogo"; break;
-	default: text = "new game"; break;
+	case 1: text = "Nuevo juego"; break;
+	case 2: text = "Novo jogo"; break;
+	default: text = "New game"; break;
 
 }
 

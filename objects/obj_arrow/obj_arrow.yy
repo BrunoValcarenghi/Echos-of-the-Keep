@@ -13,7 +13,10 @@
     "name":"obj",
     "path":"folders/obj.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_arrow_pai",
+    "path":"objects/obj_arrow_pai/obj_arrow_pai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
