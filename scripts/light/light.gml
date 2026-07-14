@@ -12,3 +12,19 @@ function light(){
 	gpu_set_blendmode(bm_normal);
 
 }
+
+function light_red(){
+	
+	gpu_set_blendmode(bm_add);
+	
+	timer += 0.1;
+	var _alpha = 0.2 + (sin(timer) * 0.1);
+    draw_set_alpha(_alpha);
+	
+	
+	draw_ellipse_colour(x - 20, y - 20, x + 20, y + 10, c_red, c_black, 0)
+	
+	draw_set_alpha(1)
+	gpu_set_blendmode(bm_normal);
+
+}

@@ -1,2 +1,3 @@
 sprite_index = spr_monstro_idle
-speed = .1
+speed = .05
+acabou = true
