@@ -1,5 +1,7 @@
-x = obj_enemy.x
-y = obj_enemy.y
+if flw != noone{
+	x = flw.x
+	y = flw.y
+}
 
 if instance_nearest(x, y, obj_enemy).sprite_index = spr_enemy_death{
 	
