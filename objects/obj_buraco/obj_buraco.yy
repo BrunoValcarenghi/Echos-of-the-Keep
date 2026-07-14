@@ -6,8 +6,8 @@
   "name":"obj_buraco",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj",
-    "path":"folders/obj.yy",
+    "name":"collision",
+    "path":"folders/obj/collision.yy",
   },
   "parentObjectId":null,
   "persistent":false,

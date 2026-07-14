@@ -9,8 +9,8 @@
   "name":"obj_shield",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj",
-    "path":"folders/obj.yy",
+    "name":"interaction",
+    "path":"folders/obj/interaction.yy",
   },
   "parentObjectId":null,
   "persistent":false,

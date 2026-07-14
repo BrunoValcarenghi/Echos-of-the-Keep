@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"font_border",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"font_border",
+  "parent":{
+    "name":"effects",
+    "path":"folders/script/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

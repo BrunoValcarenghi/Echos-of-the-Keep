@@ -6,8 +6,8 @@
   "name":"obj_col",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj",
-    "path":"folders/obj.yy",
+    "name":"collision",
+    "path":"folders/obj/collision.yy",
   },
   "parentObjectId":null,
   "persistent":false,

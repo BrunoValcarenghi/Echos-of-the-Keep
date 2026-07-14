@@ -1,7 +1,8 @@
-// resume game
-if image_alpha = 1{
-
-global.pausa = false
-obj_player.trava = false
-
+// start a new game
+// comienza un nuevo juego
+// inicia um novo jogo
+if !instance_exists(obj_transition){
+	instance_create_layer(room_width + 1300, 0, "cursor", obj_transition)
+	clicou = true
 }
+

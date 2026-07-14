@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":6,
   "parent":{
-    "name":"sprites",
-    "path":"folders/sprites.yy",
+    "name":"shoot",
+    "path":"folders/sprites/entidade/shoot.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

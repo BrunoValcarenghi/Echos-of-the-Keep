@@ -9,8 +9,8 @@
   "name":"obj_transition",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj",
-    "path":"folders/obj.yy",
+    "name":"interface",
+    "path":"folders/obj/interface.yy",
   },
   "parentObjectId":null,
   "persistent":false,

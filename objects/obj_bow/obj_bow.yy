@@ -8,8 +8,8 @@
   "name":"obj_bow",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj",
-    "path":"folders/obj.yy",
+    "name":"shoot",
+    "path":"folders/obj/shoot.yy",
   },
   "parentObjectId":null,
   "persistent":false,

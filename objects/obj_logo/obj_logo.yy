@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"VALCARENGHI",
-    "path":"sprites/VALCARENGHI/VALCARENGHI.yy",
+    "name":"ECHOS_OF_THE_KEEP",
+    "path":"sprites/ECHOS_OF_THE_KEEP/ECHOS_OF_THE_KEEP.yy",
   },
   "spriteMaskId":null,
   "visible":true,
