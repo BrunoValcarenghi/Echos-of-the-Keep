@@ -10,3 +10,5 @@ if fade >= 1.3{
 	game_restart()
 	
 }
+
+obj_player.trava = true

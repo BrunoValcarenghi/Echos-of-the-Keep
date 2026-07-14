@@ -1,6 +1,6 @@
 function shoot(){
 	
-	if obj_player.key_shoot{
+	if obj_player.key_shoot and obj_player.can_shoot and !obj_player.trava{
 		
 		var _flecha = instance_create_layer(x, y, "shoot", obj_arrow)
 		if mouse_check_button(mb_left){
@@ -13,7 +13,7 @@ function shoot(){
 
 function clone_shoot(){
 	
-	if obj_player.key_shoot{
+	if obj_player.key_shoot and obj_player.can_shoot and !obj_player.trava{
 		
 		var _flecha = instance_create_layer(x, y, "shoot", obj_arrow_clone)
 		if mouse_check_button(mb_left){

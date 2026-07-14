@@ -1,14 +1,17 @@
 function pause(){
 
-if keyboard_check_pressed(vk_escape){
+	if keyboard_check_pressed(vk_escape){
 	
-	global.pausa=!global.pausa
-	
-}
+		global.pausa=!global.pausa
+		if obj_player.trava obj_player.trava = false
+	}
 	
 	//pause
 	if global.pausa{
 		
+		//evita tiro apos pause
+		obj_player.can_shoot = false
+		obj_player.alarm[0] = 20
 		
 		// player stop
 		// detener player
@@ -29,7 +32,6 @@ if keyboard_check_pressed(vk_escape){
 	//despause
 	else{
 		
-		obj_player.trava = false
 		instance_activate_all();
 		obj_b_pause.image_alpha = 0
 
