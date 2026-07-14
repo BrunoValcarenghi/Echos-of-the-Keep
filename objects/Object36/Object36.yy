@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_shoot",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object36",
+  "eventList":[],
   "managed":true,
-  "name":"obj_shoot",
+  "name":"Object36",
   "overriddenProperties":[],
   "parent":{
     "name":"obj",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_shoot",
-    "path":"sprites/spr_shoot/spr_shoot.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

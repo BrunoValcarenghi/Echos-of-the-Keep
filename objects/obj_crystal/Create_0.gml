@@ -1,5 +1,6 @@
 image_speed = 0
 ativo = false
 
-timer = 0
+light_timer = 0
+bounce_timer = 0
 shadow(false)

@@ -11,14 +11,7 @@ draw_set_colour(color)
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
 
-switch global.language{
 
-	case 1: text = "Continuar"; break;
-	case 2: text = "Continuar"; break;
-	default: text = "Continue"; break;
-
-}
-
-draw_text(x, y, text)
+draw_text(x, y, "Continue")
 
 }

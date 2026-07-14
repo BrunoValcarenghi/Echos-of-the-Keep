@@ -1,8 +1,10 @@
 function light(){
 	
+	light_timer += .05
+	
 	gpu_set_blendmode(bm_add);
 	
-	var _alpha = 0.2 + (sin(timer) * 0.1);
+	var _alpha = 0.2 + (sin(light_timer) * 0.1);
     draw_set_alpha(_alpha);
 	
 	
@@ -17,8 +19,8 @@ function light_red(){
 	
 	gpu_set_blendmode(bm_add);
 	
-	timer += 0.1;
-	var _alpha = 0.2 + (sin(timer) * 0.1);
+	light_timer += 0.1;
+	var _alpha = 0.2 + (sin(light_timer) * 0.1);
     draw_set_alpha(_alpha);
 	
 	

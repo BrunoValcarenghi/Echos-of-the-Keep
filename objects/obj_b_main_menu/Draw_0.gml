@@ -11,14 +11,6 @@ draw_set_colour(color)
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
 
-switch global.language{
-
-	case 1: text = "Menú de Inicio"; break;
-	case 2: text = "Menu inicial"; break;
-	default: text = "Main Menu"; break;
-
-}
-
-draw_text(x, y, text)
+draw_text(x, y, "Main Menu")
 
 }

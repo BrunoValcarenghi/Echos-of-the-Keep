@@ -8,7 +8,6 @@ mouse_check_button_pressed(mb_right)){
 
 
 //Fullscreen
-
 ini_open("save.sav")
 if keyboard_check_pressed(ord("F"))
 {

@@ -3,7 +3,6 @@
 // carrega idioma e modo de exibição
 ini_open("save.sav")
 
-global.language = ini_read_real("game", "language", 0)
 global.display = ini_read_real("game", "display", 1)
 
 ini_close()

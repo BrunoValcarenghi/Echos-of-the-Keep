@@ -4,4 +4,5 @@ speed = 0
 direction = point_direction(x,y, obj_player.x,obj_player.y)
 
 acabou = false
-timer = 0
+light_timer = 0
+bounce_timer = 0
