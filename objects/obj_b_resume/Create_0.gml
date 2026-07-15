@@ -5,3 +5,4 @@ color = noone
 clicou = false
 // gui position
 yy = 100
+image_alpha = 0

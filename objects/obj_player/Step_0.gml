@@ -1,6 +1,5 @@
 get_input()
 move_col()
-pause()
 
 if trava {
 	spd = 0

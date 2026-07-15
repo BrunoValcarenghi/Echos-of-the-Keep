@@ -5,3 +5,4 @@ color = noone
 // position
 yy = 200
 clicou = false;
+if room != Room_main image_alpha = 0
