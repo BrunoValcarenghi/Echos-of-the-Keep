@@ -3,13 +3,16 @@
 </p>
 
 [<p align="center"><img src="img/baixar.png" alt="download"></p>](https://vlcrngh.itch.io/echos-of-the-keep)
-[<p align="center"><img src="img/game.png" alt="game"></p>](https://vlcrngh.itch.io/echos-of-the-keep)
+
+<p align="center">
+  <img src="img/game.png" alt="game">
+</p>
+
 ## Your greatest ally is your own shadow. Your greatest obstacle too. A minimalist and surgical puzzle game made for the Restless Jam.  In Echoes of the Keep, you control a mysterious archer trapped in an ancient tower filled with old machinery. To escape, you have only one power: Mimicry. By firing your magic arrow, you create a Clone exactly where it hits. From that moment on, it mimics your every move in real-time. Use the level architecture, wall corners, and your wits to synchronize your movements with your clone, activate simultaneous buttons, and clear your path to the exit.
 
 <p align="center">
   <img src="img/intro.gif" alt="intro">
 </p>
-
 
 <p align="center">
   <img src="img/jam.png" alt="jam">
@@ -25,6 +28,9 @@
 
 <p align="center">
   <img src="img/controles_button.png" alt="controls_button">
+</p>  
+
+<p align="center">
   <img src="img/controles.png" alt="controls">
 </p>  
 
@@ -46,11 +52,22 @@
 
 <p align="center">
   <img src="img/print.png" alt="print">
+</p>
 
-  <img src="img/print1.png" alt="print1">
-  <img src="img/print2.png" alt="print2">
-  <img src="img/print3.png" alt="print3">
-  <img src="img/print4.png" alt="print4">
+<p align="center">
+   <img src="img/print1.PNG" alt="print1">
+</p>
+
+<p align="center">
+   <img src="img/print2.PNG" alt="print2">
+</p>
+
+<p align="center">
+   <img src="img/print3.PNG" alt="print3">
+</p>
+
+<p align="center">
+   <img src="img/print4.PNG" alt="print4">
 </p>
 
 <p align="center">
