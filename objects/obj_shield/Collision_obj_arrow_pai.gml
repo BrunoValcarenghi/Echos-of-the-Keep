@@ -1,0 +1,1 @@
+audio_play_sound(sfx_escudo, 20, 0, global.sfx)

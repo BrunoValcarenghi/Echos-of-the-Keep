@@ -9,3 +9,4 @@ if instance_nearest(x, y, obj_enemy).sprite_index = spr_enemy_death{
 	if image_index > 3 instance_destroy()
 
 }
+

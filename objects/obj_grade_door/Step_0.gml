@@ -14,5 +14,5 @@ else if !ativo and image_index > 1{image_speed = -1}
 else{image_speed = 0}
 
 //remove colisao
-if ativo{mask_index = spr_enemy_death;}//esse sprite nao tem colisao
+if ativo{mask_index = spr_vazio}
 else{mask_index = -1;}

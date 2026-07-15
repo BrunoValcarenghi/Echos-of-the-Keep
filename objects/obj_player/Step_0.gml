@@ -7,6 +7,13 @@ if trava {
 }
 else if place_meeting(x, y, col_death){
 	
+	if sprite_index != spr_player_death{
+		
+		image_index = 0;
+		audio_play_sound(sfx_dano, 20, 0, global.sfx)
+	
+	}
+	
 	spd = 0
 	sprite_index = spr_player_death
 	if sprite_index = spr_player_death and image_index > 6 room_restart()

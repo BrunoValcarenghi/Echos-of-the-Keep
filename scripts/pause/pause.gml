@@ -11,7 +11,7 @@ function pause(){
 		
 		//evita tiro apos pause
 		obj_player.can_shoot = false
-		obj_player.alarm[0] = 20
+		obj_player.alarm[0] = 10
 		
 		// player stop
 		// detener player

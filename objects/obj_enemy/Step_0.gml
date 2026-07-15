@@ -8,3 +8,5 @@ else if sprite_index != spr_enemy_death{
 	x += (xt - x)/xd
 
 }
+
+if morto mask_index = spr_vazio

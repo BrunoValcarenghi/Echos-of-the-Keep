@@ -1,1 +1,2 @@
+som = false
 ativo = false

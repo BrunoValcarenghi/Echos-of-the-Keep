@@ -1,6 +1,7 @@
 tx = 0
 text = "Continue"
 grossura = 1
+color = noone
 clicou = false
 ini_open("save.sav")
 	
