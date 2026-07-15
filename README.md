@@ -1,8 +1,8 @@
+
+[Link to ithc.io](https://vlcrngh.itch.io/echos-of-the-keep)
 <p align="center">
   <img src="img/logo_large.png" alt="logo">
 </p>
-
-[<p align="center"><img src="img/baixar.png" alt="download"></p>](https://vlcrngh.itch.io/echos-of-the-keep)
 
 <p align="center">
   <img src="img/game.png" alt="game">
